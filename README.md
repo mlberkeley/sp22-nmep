@@ -18,11 +18,11 @@ We will upload the slides for each lecture after the lecture, along with the hom
 |02/28/2022|[Classical ML](https://docs.google.com/presentation/d/16_9xyt266O-YLzaH9UsFbG3FmkHCy6UROKQgOL0Rn8A/edit?usp=sharing)                  |          |SVM, Decision Trees, Random Forests   | Yash |
 |03/07/2021|[Neural Network Basics](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  |          |Backpropagation        | Everyone |
 |03/14/2021|[Conv. Nets Part 1](https://docs.google.com/presentation/d/1Bcxvq362QN7m-9Hq4aLkL87xUYFXyG-bPS9SKSXgiVQ/edit?usp=sharing)          |          |Computer Vision        | Everyone |
-|03/21/2021|[Conv. Nets Part 2](https://www.youtube.com/watch?v=dQw4w9WgXcQ)          |          |Computer Vision        | Val |
+|03/21/2021|[Conv. Nets Part 2](https://www.youtube.com/watch?v=dQw4w9WgXcQ)          |          |Computer Vision        | Val, Tyler |
 |03/28/2021|Project Release             |          |        | YAY |
 |04/04/2021|Final Exam (will link a folder with all the lecture slides here after the last lecture)   |          |dw about it xD|Death |
-|04/11/2021|Natural Language Processing and Transformers|          | Natural Language | TBD |
-|04/18/2021|Pipelining + AI Ethics                        |          |        | TBD |
+|04/11/2021|LSTM and RNNs|          | Natural Language | Val  |
+|04/18/2021|Transformers and Natural Language Processing                        |          |        | Tej, Yash |
 |04/25/2021|Reinforcement Learning|          |        | TBD |
 |05/02/2021|Unsupervised Learning + GANs|          |        | TBD |
 |05/09/2021|Project Presentations      |          |        | YAY |
