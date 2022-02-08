@@ -27,6 +27,10 @@ We will upload the slides for each lecture after the lecture, along with the hom
 |05/02/2021|Unsupervised Learning + GANs|          |        | TBD |
 |05/09/2021|Project Presentations      |          |        | YAY |
 
+## Homework Partners (HW 1)
+
+[Annie, Verona], [Atahan, Vedant], [Ayushi, Shivansh], [Diana, Ryan], [Estella, Rishi], [Evan, Mason], [Jada, Inga]
+
 ## Research Papers
 | Date | Research Paper | Presenter(s) | Your Slides |
 |----------|--------|---------|---------|
@@ -38,12 +42,11 @@ We will upload the slides for each lecture after the lecture, along with the hom
 |03/28/2021|[Unsupervised Translation of Programming Languages](https://arxiv.org/abs/1807.03748)                            |  |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 |04/04/2021|[RL with Contrastive Predictive Coding](https://arxiv.org/abs/2006.03511)                            |  |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 
-
 ## Office Hours Schedule
 
 | Date | Venue |
 |----------|--------|
-|02/15/2022| TBD |
+|02/15/2022| Zoom (2-3pm) |
 |02/22/2022| TBD |
 |02/29/2022| TBD |
 |03/08/2022| TBD |
