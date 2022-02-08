@@ -41,8 +41,23 @@ We will upload the slides for each lecture after the lecture, along with the hom
 
 ## Office Hours Schedule
 
-| Date | Venue | Instructor |
-|----------|--------|---------|
+| Date | Venue |
+|----------|--------|
+|02/15/2022| TBD |
+|02/22/2022| TBD |
+|02/29/2022| TBD |
+|03/08/2022| TBD |
+|03/15/2022| TBD |
+|03/22/2022| TBD |
+|03/29/2022| TBD |
+|04/05/2022| TBD |
+|04/12/2022| TBD |
+|04/19/2022| TBD |
+|04/26/2022| TBD |
+|05/03/2022| TBD |
+
+
+
 
 ## Final Projects
 
