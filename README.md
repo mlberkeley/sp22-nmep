@@ -34,13 +34,13 @@ We will upload the slides for each lecture after the lecture, along with the hom
 ## Research Papers
 | Date | Research Paper | Presenter(s) | Your Slides |
 |----------|--------|---------|---------|
-|02/14/2022|[How To Read A Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)                    |          |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
-|02/21/2022|[SVM-KNN](https://people.eecs.berkeley.edu/~trevor/CS294PublicFiles/07Discriminative%20Methods%20Lecture/Zhang%20-%20svmknn.pdf)                    |    |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
-|02/28/2022|[Deep Double Descent](https://arxiv.org/pdf/1912.02292.pdf)                            |  |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
-|03/07/2021|[Deep Residual Learning](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)          | |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
-|03/21/2021|[Attention is Key](https://arxiv.org/abs/1706.03762)                            |  |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
-|03/28/2021|[Unsupervised Translation of Programming Languages](https://arxiv.org/abs/1807.03748)                            |  |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
-|04/04/2021|[RL with Contrastive Predictive Coding](https://arxiv.org/abs/2006.03511)                            |  |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
+|02/14/2022|[How To Read A Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)                    | Annie	Inga        |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
+|02/21/2022|[SVM-KNN](https://people.eecs.berkeley.edu/~trevor/CS294PublicFiles/07Discriminative%20Methods%20Lecture/Zhang%20-%20svmknn.pdf)                    | Verona	Mason  |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
+|02/28/2022|[Deep Double Descent](https://arxiv.org/pdf/1912.02292.pdf)                            | Rishi	Vedant |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
+|03/07/2021|[Deep Residual Learning](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)          | Ayushi	Jada |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
+|03/21/2021|[Attention is Key](https://arxiv.org/abs/1706.03762)                            |Evan	Atahan  |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
+|03/28/2021|[Unsupervised Translation of Programming Languages](https://arxiv.org/abs/1807.03748)                            | Shivansh	Diana  |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
+|04/04/2021|[RL with Contrastive Predictive Coding](https://arxiv.org/abs/2006.03511)                            | Ryan	Estella |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 
 ## Office Hours Schedule
 
