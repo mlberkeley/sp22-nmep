@@ -27,10 +27,10 @@ We will upload the slides for each lecture after the lecture, along with the hom
 |05/02/2021|Unsupervised Learning + GANs|          |        | TBD |
 |05/09/2021|Project Presentations      |          |        | YAY |
 
-## Homework Partners (HW 1)
+## Homework Partners (HW 2)
 
-[Annie, Verona], [Atahan, Vedant], [Ayushi, Shivansh], [Diana, Ryan], [Estella, Rishi], [Evan, Mason], [Jada, Inga]
-
+ [['Atahan', 'Ayushi'], ['Verona', 'Diana'], ['Annie', 'Estella'], ['Ryan', 'Inga'], ['Jada', 'Rishi'], ['Vedant', 'Mason'], ['Evan', 'Shivansh']]
+ 
 ## Research Papers
 | Date | Research Paper | Presenter(s) | Your Slides |
 |----------|--------|---------|---------|
