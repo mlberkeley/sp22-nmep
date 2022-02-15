@@ -34,7 +34,7 @@ We will upload the slides for each lecture after the lecture, along with the hom
 ## Research Papers
 | Date | Research Paper | Presenter(s) | Your Slides |
 |----------|--------|---------|---------|
-|02/14/2022|[How To Read A Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)                    | Annie	Inga        |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
+|02/14/2022|[How To Read A Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)                    | Annie	Inga        |[Here](https://docs.google.com/presentation/d/1B58h108uOTyPjA5fSYG-Hydiks0Kk8URWQjL0zm-ARI/edit?usp=sharing) |
 |02/21/2022|[SVM-KNN](https://people.eecs.berkeley.edu/~trevor/CS294PublicFiles/07Discriminative%20Methods%20Lecture/Zhang%20-%20svmknn.pdf)                    | Verona	Mason  |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 |02/28/2022|[Deep Double Descent](https://arxiv.org/pdf/1912.02292.pdf)                            | Rishi	Vedant |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 |03/07/2021|[Deep Residual Learning](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)          | Ayushi	Jada |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
