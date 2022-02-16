@@ -13,7 +13,7 @@ We will upload the slides for each lecture after the lecture, along with the hom
 | Date | Lecture Slides | Homework | Topics | Lecturer |
 |------          |----------------                |----------|--------|---------|
 |02/07/2022|[Intro to ML](https://docs.google.com/presentation/d/1cuH5nbKklYqMTuUBfbUumcx5oygatiMFcM56j069kUc/edit?usp=sharing)                    |          [NumPy and Pandas](https://drive.google.com/drive/folders/1_K3pjtxs8BT8-4V3bL5xpS7CliI3VDLG?usp=sharing)|Overview of ML        | Everyone |
-|02/14/2022|[Math Foundations](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                    |          |Math you'll need to understand ML| Everyone |
+|02/14/2022|[Math Foundations](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                    | [Math and Gaussian Orbits](https://drive.google.com/drive/folders/1dLPDQkTHuRuA69Rt9dVN6Hetcxehqv9C?usp=sharing) |Math you'll need to understand ML| Everyone |
 |02/21/2022|[Data](https://docs.google.com/presentation/d/1uDySmZNJ8wzm5n7Bm3QE70tK798itQoy4Avk2pk2G5o/edit?usp=sharing)                               |          |Data Cleaning, Feature Engineering | Val |
 |02/28/2022|[Classical ML](https://docs.google.com/presentation/d/16_9xyt266O-YLzaH9UsFbG3FmkHCy6UROKQgOL0Rn8A/edit?usp=sharing)                  |          |SVM, Decision Trees, Random Forests   | Yash |
 |03/07/2021|[Neural Network Basics](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  |          |Backpropagation        | Everyone |
