@@ -16,16 +16,16 @@ We will upload the slides for each lecture after the lecture, along with the hom
 | 02/14/2022 | Math Foundations | [Math and Gaussian Orbits](https://drive.google.com/drive/folders/1dLPDQkTHuRuA69Rt9dVN6Hetcxehqv9C?usp=sharing) | Math you'll need to understand ML| Everyone |
 | 02/23/2022 | [Data](https://docs.google.com/presentation/d/1uDySmZNJ8wzm5n7Bm3QE70tK798itQoy4Avk2pk2G5o/edit?usp=sharing) |[Data Cleaning, Processing, Visualization, and PCA](https://drive.google.com/drive/folders/1qwiBj2KX80BQEihdHIldFQrHZjMNZE2L?usp=sharing) | Data Cleaning, Feature Engineering | Val |
 | 02/28/2022 | [Classical ML](https://docs.google.com/presentation/d/16_9xyt266O-YLzaH9UsFbG3FmkHCy6UROKQgOL0Rn8A/edit?usp=sharing)                  | [Decision Trees, SVM Kernels](https://drive.google.com/drive/folders/1c_yKF8IUYrnv7kg-eRgozoP11o7ah-a1?usp=sharing)        | SVM, Decision Trees, Random Forests   | Yash |
-| 03/07/2021 | [Neural Network Basics](https://docs.google.com/presentation/d/1RL0AcOBZpIgF9M_f12wYJWMSZID2Ps3ZVY68fWjAa6Y/edit?usp=sharing)  | [PyTorch](https://drive.google.com/drive/folders/15veguGROiF3FkHaztsMV_e2s7VEXBsf7?usp=sharing) | Backpropagation | Everyone |
-| 03/14/2021 | Project Release and [Conv. Nets Part 1](https://docs.google.com/presentation/d/1Bcxvq362QN7m-9Hq4aLkL87xUYFXyG-bPS9SKSXgiVQ/edit?usp=sharing) |  | Computer Vision | Everyone |
-| 03/28/2021 | Project QnA, Finals Office Hours |          |        | Everyone |
-| 03/21/2021 | [Conv. Nets Part 2](https://www.youtube.com/watch?v=dQw4w9WgXcQ)          |          |Computer Vision        | Val, Tyler |
-| 04/04/2021 | Final Exam (will link a folder with all the lecture slides here after the last lecture)   |          |dw about it xD|Death |
-| 04/11/2021 | LSTM and RNNs|          | Natural Language | Val  |
-| 04/18/2021 | Transformers and Natural Language Processing                        |          |        | Tej, Yash |
-| 04/25/2021 | Reinforcement Learning|          |        | John, Ashwin, Keiran |
+| 03/07/2022 | [Neural Network Basics](https://docs.google.com/presentation/d/1RL0AcOBZpIgF9M_f12wYJWMSZID2Ps3ZVY68fWjAa6Y/edit?usp=sharing)  | [PyTorch](https://drive.google.com/drive/folders/15veguGROiF3FkHaztsMV_e2s7VEXBsf7?usp=sharing) | Backpropagation | Everyone |
+| 03/14/2022 | Project Release and [Conv. Nets Part 1](https://docs.google.com/presentation/d/1Bcxvq362QN7m-9Hq4aLkL87xUYFXyG-bPS9SKSXgiVQ/edit?usp=sharing) |  | Computer Vision | Everyone |
+| 03/21/2022 | Project QnA, Finals Office Hours |          |(Hybrid instruction)        | Everyone |
+| 03/29/2022 | [Conv. Nets Part 2](https://www.youtube.com/watch?v=dQw4w9WgXcQ)          |          |Computer Vision        | Val, Tyler |
+| 04/04/2022 | Final Exam (will link a folder with all the lecture slides here after the last lecture)   |          |dw about it xD|Death |
+| 04/11/2022 | LSTM and RNNs|          | Natural Language | Val  |
+| 04/18/2022 | Transformers and Natural Language Processing                        |          |        | Tej, Yash |
+| 04/25/2022 | Reinforcement Learning|          |        | John, Ashwin, Keiran |
 | TBD | Unsupervised Learning + GANs|          |        | TBD |
-| 05/09/2021 | Project Presentations      |          |        | YAY |
+| 05/09/2022 | Project Presentations      |          |        | YAY |
 
 <!-- ## Homework Partners (HW 2)
 
