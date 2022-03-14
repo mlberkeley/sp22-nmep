@@ -18,7 +18,7 @@ We will upload the slides for each lecture after the lecture, along with the hom
 | 02/28/2022 | [Classical ML](https://docs.google.com/presentation/d/16_9xyt266O-YLzaH9UsFbG3FmkHCy6UROKQgOL0Rn8A/edit?usp=sharing)                  | [Decision Trees, SVM Kernels](https://drive.google.com/drive/folders/1c_yKF8IUYrnv7kg-eRgozoP11o7ah-a1?usp=sharing)        | SVM, Decision Trees, Random Forests   | Yash |
 | 03/07/2022 | [Neural Network Basics](https://docs.google.com/presentation/d/1RL0AcOBZpIgF9M_f12wYJWMSZID2Ps3ZVY68fWjAa6Y/edit?usp=sharing)  | [PyTorch](https://drive.google.com/drive/folders/15veguGROiF3FkHaztsMV_e2s7VEXBsf7?usp=sharing) | Backpropagation | Val, Cade |
 | 03/15/2022 | Project Release and [Conv. Nets Part 1](https://docs.google.com/presentation/d/1Bcxvq362QN7m-9Hq4aLkL87xUYFXyG-bPS9SKSXgiVQ/edit?usp=sharing) |  | Computer Vision | Val |
-| 03/21/2022 | Project QnA, Finals Office Hours |          |(Hybrid instruction)        | Everyone |
+| 03/21/2022 | Project QnA, Office Hours |          |(Hybrid instruction)        | Everyone |
 | 03/29/2022 | [Conv. Nets Part 2](https://www.youtube.com/watch?v=dQw4w9WgXcQ)          |          |Computer Vision        | Val, Tyler |
 | 04/04/2022 | LSTM and RNNs|          | Natural Language | Val, TBD |
 | 04/11/2022 | Transformers and Natural Language Processing                        |          |        | Tej, Yash |
