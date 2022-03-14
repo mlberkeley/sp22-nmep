@@ -23,9 +23,9 @@ We will upload the slides for each lecture after the lecture, along with the hom
 | 04/04/2022 | Final Exam (will link a folder with all the lecture slides here after the last lecture)   |          |dw about it xD|Death |
 | 04/11/2022 | LSTM and RNNs|          | Natural Language | Val  |
 | 04/18/2022 | Transformers and Natural Language Processing                        |          |        | Tej, Yash |
-| 04/25/2022 | Reinforcement Learning|          |        | John, Ashwin, Keiran |
 | TBD | Unsupervised Learning + GANs|          |        | TBD |
-| 05/09/2022 | Project Presentations      |          |        | YAY |
+| 04/25/2022 | Reinforcement Learning|          |        | John, Ashwin, Keiran |
+| 04/26/2022 | Project Presentations (BEARS)      |          |        | YAY |
 
 <!-- ## Homework Partners (HW 2)
 
