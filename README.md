@@ -24,7 +24,7 @@ We will upload the slides for each lecture after the lecture, along with the hom
 | 03/29/2022 | [Conv. Nets Part 2](https://www.youtube.com/watch?v=dQw4w9WgXcQ)          |          |Computer Vision        | Val, Tyler |
 | 04/04/2022 | LSTM and RNNs|          | Natural Language | Val, TBD |
 | 04/11/2022 | Transformers and Natural Language Processing                        |          |        | Tej, Yash |
-| 04/18/2022 | Unsupervised Learning + GANs|          |        | TBD |
+| 04/18/2022 | AI Ethics, Unsupervised Learning, GANs|          |        | Aryan, Arjun, Tyler |
 | 04/25/2022 | Reinforcement Learning|          |        | John, Ashwin, Kiran |
 | 04/26/2022 | Project Presentations (BEARS)      |          |        | YAY |
 
