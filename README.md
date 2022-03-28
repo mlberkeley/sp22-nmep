@@ -22,7 +22,7 @@ We will upload the slides for each lecture after the lecture, along with the hom
 | 03/15/2022 | Project Release and [Conv. Nets Part 1](https://docs.google.com/presentation/d/1Bcxvq362QN7m-9Hq4aLkL87xUYFXyG-bPS9SKSXgiVQ/edit?usp=sharing) | [Convolutions, Autoencoder](https://drive.google.com/drive/folders/1h9SRn2_WslOCJ3TGqVX3Me7QJO0R5r9M?usp=sharing) | Computer Vision | Val |
 | 03/21/2022 | Project QnA, Office Hours |          |(Hybrid instruction)        | Everyone |
 | 03/29/2022 | [Conv. Nets Part 2](https://www.youtube.com/watch?v=dQw4w9WgXcQ)          |          |Computer Vision        | Val, Tyler |
-| 04/04/2022 | LSTM and RNNs|          | Natural Language | Val, TBD |
+| 04/04/2022 | LSTM and RNNs|          | Natural Language | John+ |
 | 04/11/2022 | Transformers and Natural Language Processing                        |          |        | Tej, Yash |
 | 04/18/2022 | AI Ethics, Unsupervised Learning, GANs|          |        | Aryan, Arjun, Tyler |
 | 04/25/2022 | Reinforcement Learning|          |        | John, Ashwin, Kiran |
