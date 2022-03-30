@@ -21,11 +21,11 @@ We will upload the slides for each lecture after the lecture, along with the hom
 | 03/07/2022 | [Neural Network Basics](https://docs.google.com/presentation/d/1RL0AcOBZpIgF9M_f12wYJWMSZID2Ps3ZVY68fWjAa6Y/edit?usp=sharing)  | [PyTorch](https://drive.google.com/drive/folders/15veguGROiF3FkHaztsMV_e2s7VEXBsf7?usp=sharing) | Backpropagation | Val, Cade |
 | 03/15/2022 | Project Release and [Conv. Nets Part 1](https://docs.google.com/presentation/d/1Bcxvq362QN7m-9Hq4aLkL87xUYFXyG-bPS9SKSXgiVQ/edit?usp=sharing) | [Convolutions, Autoencoder](https://drive.google.com/drive/folders/1h9SRn2_WslOCJ3TGqVX3Me7QJO0R5r9M?usp=sharing) | Computer Vision | Val |
 | 03/21/2022 | Project QnA, Office Hours |          |(Hybrid instruction)        | Everyone |
-| 03/29/2022 | [Conv. Nets Part 2](https://www.youtube.com/watch?v=dQw4w9WgXcQ)          |          |Computer Vision        | Val, Tyler |
-| 04/04/2022 | LSTM and RNNs|          | Natural Language | John+ |
-| 04/11/2022 | Transformers and Natural Language Processing                        |          |        | Tej, Yash |
-| 04/18/2022 | AI Ethics, Unsupervised Learning, GANs|          |        | Aryan, Arjun, Tyler |
-| 04/25/2022 | Reinforcement Learning|          |        | John, Ashwin, Kiran |
+| 03/29/2022 | [Conv. Nets Part 2](https://docs.google.com/presentation/d/1G3ibSG9jto1twi3CZAcSC1jWyg2xV8Ud6Ll7hLd0Ho0/edit?usp=sharing)          |          |Computer Vision        | Val, Tyler |
+| 04/04/2022 | AI Ethics, NLP, LSTM and RNNs intro |          | Natural Language | Aryan, Val, John+ |
+| 04/11/2022 | LSTM and RNNs cont, Transformers |          |        | John, Tej?, Cade?, Rohan? |
+| 04/18/2022 | AI Ethics, Unsupervised Learning, GANs |          |        | Arjun, Tyler |
+| 04/25/2022 | Reinforcement Learning |          |        | John, Ashwin, Kiran |
 | 04/26/2022 | Project Presentations (BEARS)      |          |        | YAY |
 
 ## Homework Partners
@@ -41,7 +41,7 @@ We will upload the slides for each lecture after the lecture, along with the hom
 | 03/07/2021 | Gap day | ||
 | 03/15/2021 | Gap day | ||
 | 03/21/2021 | Break | ||
-| 03/29/2021 | [Deep Residual Learning](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) | Ayushi	Diana | [Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
+| 03/29/2021 | [Deep Residual Learning](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) | Ayushi	Diana | [Here](https://docs.google.com/presentation/d/12jJ-xXsp2iCgQuuKI5ef5mKajWwwPRCk7Y1WIY4Zhhw/edit?usp=sharing) |
 | 04/04/2021 | Gap day | ||
 | 04/11/2021 | [Attention is Key](https://arxiv.org/abs/1706.03762) |Evan	Atahan  |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 | 04/18/2021 | [Unsupervised Translation of Programming Languages](https://arxiv.org/abs/1807.03748) | Shivansh	Jada  |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
