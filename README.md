@@ -24,7 +24,7 @@ We will upload the slides for each lecture after the lecture, along with the hom
 | 03/29/2022 | [Conv. Nets Part 2](https://docs.google.com/presentation/d/1G3ibSG9jto1twi3CZAcSC1jWyg2xV8Ud6Ll7hLd0Ho0/edit?usp=sharing)          |          |Computer Vision        | Val, Tyler |
 | 04/04/2022 | AI Ethics, NLP, LSTM and RNNs intro |          | Natural Language | Aryan, Val, John+ |
 | 04/11/2022 | LSTM and RNNs cont, Transformers |          |        | John, Tej?, Cade?, Rohan? |
-| 04/18/2022 | AI Ethics, Unsupervised Learning, GANs |          |        | Arjun, Tyler |
+| 04/18/2022 | Unsupervised Learning, GANs |          |        | Arjun, Tyler |
 | 04/25/2022 | Reinforcement Learning |          |        | John, Ashwin, Kiran |
 | 04/26/2022 | Project Presentations (BEARS)      |          |        | YAY |
 
@@ -44,8 +44,8 @@ We will upload the slides for each lecture after the lecture, along with the hom
 | 03/29/2021 | [Deep Residual Learning](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) | Ayushi	Diana | [Here](https://docs.google.com/presentation/d/12jJ-xXsp2iCgQuuKI5ef5mKajWwwPRCk7Y1WIY4Zhhw/edit?usp=sharing) |
 | 04/04/2021 | Gap day | ||
 | 04/11/2021 | [Attention is Key](https://arxiv.org/abs/1706.03762) |Evan	Atahan  |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
-| 04/18/2021 | [Unsupervised Translation of Programming Languages](https://arxiv.org/abs/1807.03748) | Shivansh	Jada  |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
-| 04/25/2021 | [RL with Contrastive Predictive Coding](https://arxiv.org/abs/2006.03511) | Ryan	Estella |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
+| 04/18/2021 | [Unsupervised Translation of Programming Languages](https://arxiv.org/abs/2006.03511) | Shivansh	Jada  |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
+| 04/25/2021 | [RL with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748) | Ryan	Estella |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 
 ## Upcoming Office Hours Schedule
 
