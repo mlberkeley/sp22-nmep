@@ -28,10 +28,6 @@ We will upload the slides for each lecture after the lecture, along with the hom
 | 04/25/2022 | Reinforcement Learning |          |        | John, Ashwin, Kiran |
 | 04/26/2022 | Project Presentations (BEARS)      |          |        | YAY |
 
-## Homework Partners
-
-`[['Ryan', 'Ayushi'], ['Shivansh', 'Verona'], ['Annie', 'Atahan'], ['Inga', 'Estella'], ['Diana', 'Rishi'], ['Jada', 'Evan'], ['Vedant', 'Mason']]`
- 
 ## Research Papers
 | Date      | Research Paper | Presenter(s) | Your Slides |
 |-----------|----------------|--------------|-------------|
