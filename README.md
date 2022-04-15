@@ -22,9 +22,9 @@ We will upload the slides for each lecture after the lecture, along with the hom
 | 03/15/2022 | Project Release and [Conv. Nets Part 1](https://docs.google.com/presentation/d/1Bcxvq362QN7m-9Hq4aLkL87xUYFXyG-bPS9SKSXgiVQ/edit?usp=sharing) | [Convolutions, Autoencoder](https://drive.google.com/drive/folders/1h9SRn2_WslOCJ3TGqVX3Me7QJO0R5r9M?usp=sharing) | Computer Vision | Val |
 | 03/21/2022 | Project QnA, Office Hours |          |(Hybrid instruction)        | Everyone |
 | 03/29/2022 | [Conv. Nets Part 2](https://docs.google.com/presentation/d/1G3ibSG9jto1twi3CZAcSC1jWyg2xV8Ud6Ll7hLd0Ho0/edit?usp=sharing)          |          |Computer Vision        | Val, Tyler |
-| 04/04/2022 | AI Ethics, NLP, LSTM and RNNs intro |          | Natural Language | Aryan, Val, John+ |
-| 04/11/2022 | LSTM and RNNs cont, Transformers |          |        | John, Tej?, Cade?, Rohan? |
-| 04/18/2022 | Unsupervised Learning, GANs |          |        | Arjun, Tyler |
+| 04/04/2022 | [NLP](https://docs.google.com/presentation/d/1E_5UGqbXNd3xJVmZa86Lq9nGE5uQc0gXN2wi2ZVjTmk/edit), [LSTM and RNNs](https://docs.google.com/presentation/d/1m4OYkftF1Y627_CwVZf07U5n5Ahz4fBF9HatVXofjug/edit) |          | Natural Language, Sequence | Val, John |
+| 04/12/2022 | [Transformers](https://docs.google.com/presentation/d/1uDySmZNJ8wzm5n7Bm3QE70tK798itQoy4Avk2pk2G5o/edit), [AI Ethics](https://docs.google.com/presentation/d/1-vHvGgh-olyEKyyqFL2L6H9z0wd8wW_C60s6RfsSmpo/edit) |          | Transformers, Ethics | Tej, Rohan, Aryan |
+| 04/20/2022 | Unsupervised Learning, GANs |          |        | Arjun, Tyler |
 | 04/25/2022 | Reinforcement Learning |          |        | John, Ashwin, Kiran |
 | 04/26/2022 | Project Presentations (BEARS)      |          |        | YAY |
 
@@ -38,22 +38,14 @@ We will upload the slides for each lecture after the lecture, along with the hom
 | 02/14/2022 | [How To Read A Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) | Annie	Inga        |[Here](https://docs.google.com/presentation/d/1B58h108uOTyPjA5fSYG-Hydiks0Kk8URWQjL0zm-ARI/edit?usp=sharing) |
 | 02/21/2022 | [SVM-KNN](https://people.eecs.berkeley.edu/~trevor/CS294PublicFiles/07Discriminative%20Methods%20Lecture/Zhang%20-%20svmknn.pdf) | Verona	Mason  |[Here](https://docs.google.com/presentation/d/1_j4UiY-_C1ASNMfiRFPIB7BzypXqXdbWeikKdtiePOI/edit?usp=sharing) |
 | 02/28/2022 | [Deep Double Descent](https://arxiv.org/pdf/1912.02292.pdf) | Rishi	Vedant |[Here](https://docs.google.com/presentation/d/1zRfh6RBMfio241zkKAAZKOjvTyz8qokHR2nS1KLxCk0/edit?usp=sharing) |
-| 03/07/2021 | Gap day | ||
-| 03/15/2021 | Gap day | ||
-| 03/21/2021 | Break | ||
-| 03/29/2021 | [Deep Residual Learning](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) | Ayushi	Diana | [Here](https://docs.google.com/presentation/d/12jJ-xXsp2iCgQuuKI5ef5mKajWwwPRCk7Y1WIY4Zhhw/edit?usp=sharing) |
-| 04/04/2021 | Gap day | ||
-| 04/11/2021 | [Attention is Key](https://arxiv.org/abs/1706.03762) |Evan	Atahan  |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
-| 04/18/2021 | [Unsupervised Translation of Programming Languages](https://arxiv.org/abs/2006.03511) | Shivansh	Jada  |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
-| 04/25/2021 | [RL with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748) | Ryan	Estella |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
-
-## Upcoming Office Hours Schedule
-
-|   Date   | Venue |
-|----------|-------|
-|03/16/2022| Woz Lounge, 2-4 pm |
-|03/21/2022| Zoom, 8-10pm |
-|TBD| TBD |
+| 03/07/2022 | Gap day | ||
+| 03/15/2022 | Gap day | ||
+| 03/21/2022 | Break | ||
+| 03/29/2022 | [Deep Residual Learning](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) | Ayushi	Diana | [Here](https://docs.google.com/presentation/d/12jJ-xXsp2iCgQuuKI5ef5mKajWwwPRCk7Y1WIY4Zhhw/edit?usp=sharing) |
+| 04/04/2022 | Gap day | ||
+| 04/12/2022 | [Attention is Key](https://arxiv.org/abs/1706.03762) |Evan	Atahan  |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
+| 04/20/2022 | [Unsupervised Translation of Programming Languages](https://arxiv.org/abs/2006.03511) | Shivansh	Jada  |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
+| 04/25/2022 | [RL with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748) | Ryan	Estella |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 
 ## Final Projects
 
