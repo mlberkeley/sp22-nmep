@@ -24,7 +24,7 @@ We will upload the slides for each lecture after the lecture, along with the hom
 | 03/29/2022 | [Conv. Nets Part 2](https://docs.google.com/presentation/d/1G3ibSG9jto1twi3CZAcSC1jWyg2xV8Ud6Ll7hLd0Ho0/edit?usp=sharing)          |          |Computer Vision        | Val, Tyler |
 | 04/04/2022 | [NLP](https://docs.google.com/presentation/d/1E_5UGqbXNd3xJVmZa86Lq9nGE5uQc0gXN2wi2ZVjTmk/edit), [LSTM and RNNs](https://docs.google.com/presentation/d/1m4OYkftF1Y627_CwVZf07U5n5Ahz4fBF9HatVXofjug/edit) |          | Natural Language, Sequence | Val, John |
 | 04/12/2022 | [Transformers](https://docs.google.com/presentation/d/1uDySmZNJ8wzm5n7Bm3QE70tK798itQoy4Avk2pk2G5o/edit), [AI Ethics](https://docs.google.com/presentation/d/1-vHvGgh-olyEKyyqFL2L6H9z0wd8wW_C60s6RfsSmpo/edit) |          | Transformers, Ethics | Tej, Rohan, Aryan |
-| 04/20/2022 | Unsupervised Learning, GANs |          |        | Arjun, Tyler |
+| 04/20/2022 | [Unsupervised Learning, GANs](https://docs.google.com/presentation/d/1gYT8oizKIBewYy84WA3xbG9K0295nFSJOz8zTAUspYA/edit?usp=sharing) |          |        | Arjun, Tyler |
 | 04/25/2022 | Reinforcement Learning |          |        | John, Ashwin, Kiran |
 | 04/26/2022 | Project Presentations (BEARS)      |          |        | YAY |
 
@@ -40,7 +40,7 @@ We will upload the slides for each lecture after the lecture, along with the hom
 | 03/29/2022 | [Deep Residual Learning](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) | Ayushi	Diana | [Here](https://docs.google.com/presentation/d/12jJ-xXsp2iCgQuuKI5ef5mKajWwwPRCk7Y1WIY4Zhhw/edit?usp=sharing) |
 | 04/04/2022 | Gap day | ||
 | 04/12/2022 | [Attention is Key](https://arxiv.org/abs/1706.03762) |Evan	Atahan  |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
-| 04/20/2022 | [Unsupervised Translation of Programming Languages](https://arxiv.org/abs/2006.03511) | Shivansh	Jada  |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
+| 04/20/2022 | [Unsupervised Translation of Programming Languages](https://arxiv.org/abs/2006.03511) | Shivansh	Jada  |[Here](https://docs.google.com/presentation/d/1yv7P0vPQGxBuk-8UkRultdwbtIHvhC5DpCoGpAWiXgc/edit?usp=sharing) |
 | 04/25/2022 | [RL with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748) | Ryan	Estella |[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 
 ## Final Projects
